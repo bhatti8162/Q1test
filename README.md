@@ -2,13 +2,13 @@
 
 Features
 
-Wide Range of Questions: Practice multiple-choice questions across various topics.
+Practice multiple-choice questions across various topics.
 
-Instant Feedback: See your results immediately after each question.
+See your results immediately.
 
 Clean, Minimal UI: Focus on learning without distractions.
 
-Responsive Design: Works smoothly on both desktop and mobile devices.
+Responsive Design: Works smoothly on both Web and mobile devices.
 
 Preview
 
