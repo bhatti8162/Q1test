@@ -143,8 +143,8 @@
       let userAns = q.choices[userAnswers[i]];
       let status = userAnswers[i] === q.answer ? "✅" : "❌";
       html += `<li><b>Q${i+1}:</b> ${q.q}<br>
-               Your Answer: ${userAns || "None"}<br>
-               Correct Answer: ${correct} ${status}</li><br>`;
+               Your Answer: ${userAns || "None"} ${status}<br>
+               Correct Answer: ${correct} </li><br>`;
     });
     html += `</ul>`;
     summaryEl.innerHTML = html;
